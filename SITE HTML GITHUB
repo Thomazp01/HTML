@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+</head>
+
+<body>
+        <center>
+                <font color="red" size="7">
+                        tabelas - parte 1
+                </font>
+                <br> <br>
+                <table border="1" width="600">
+                        <tr align="center" bgcolor="#B0C4DE">
+                                <td width="300"> <B> NOME </B></td>
+                                <td width="150"> <B> IDADE </B></td>
+                                <td width="150"> <B> FOTO </B></td>
+                        </tr>
+                        <tr align="center">
+                                <td width="100">LUIZ SUARES </td>
+                                <td> 39 </td>
+                                <td> <img src="images/soarez.jpg" width="70%"></td>
+                        </tr>
+                        <tr align="center">
+                                <td> NEYMAR </td>
+                                <td>32 </td>
+                                <td> <img src="images/neymar.jfif" width="70%"></td>
+                        <tr align="center">
+                                <td> MESSI </td>
+                                <td> 37 </td>
+                                <td> <img src="images/messi.jfif" width="70%"> </td>
+                        </tr>
+                        <tr align="center">
+                                <td width="100">BRUNA BIANCARDI</td>
+                                <td> 28 </td>
+                                <td> <img src="images/bruna-biancardi-nota-1711459182.jpg" width="70%"></td>
+                        </tr>
+                        <tr align="center">
+                                <td> BEYONCE </td>
+                                <td> 42 </td>
+                                <td> <img src="images/beyonce.webp" width="90%"></td>
+                        <tr align="center">
+                                <td> RIANNA </td>
+                                <td> 36 </td>
+                                <td> <img src="images/rianna.jfif" width="70%"> </td>
+                        </tr>
+                        <tr align="center">
+                                <td> THOMAZ LIMA </td>
+                                <td> 16 </td>
+                                <td><a href="https://github.com/Thomazp01"><img src="images/thomaz.jfif"
+                                                        width="70%"></a></td>
+                        </tr>
+                        </tr>
+                        </tr>
+                </table>
+                </table>
+        </center>
+</body>
+
+</html>
