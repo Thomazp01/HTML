@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Questionário em JavaScript</title>
+
+    <script>
+
+        $nome = prompt("Qual seu nome ?")
+        document.write("O nome digitado foi: " + $nome)
+        document.write("<br>")
+        $sexo = prompt("Qual é o sexo? [M] ou [F]")
+        document.write("<br>")
+        $idade = prompt("Qual sua idade?")
+
+        if (($sexo == "M") || ($sexo == "m")) {
+            if ($idade < 18) {
+                document.write("Idade =", $idade, " (Menino)")
+            }
+            else {
+                document.write("Idade =", $idade, "(homem)")
+            }
+
+        }
+        else {
+            if ($idade < 18) {
+                document.write("Idade =", $idade, "(menina)")
+            }
+            else {
+                document.write("Idade =", $idade, "(mulher)")
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+
+</head>
+
+
+
+<body>
+
+</body>
+
+</html>
