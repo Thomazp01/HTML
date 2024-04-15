@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+</head>
+<script>
+        document.write ("<center>")
+        document.write("<h1 color='red' size='7'> TESTE SUA SORTE<h1>")
+        $num = prompt("TESTE SUA SORTE!!! Escolha um numero de 1 a 4")
+        switch($num) 
+        {
+                case '1':
+                document.write("NUMERO ERRADO ")
+                document.write("<td align='center'> <img src='images/monstros-miticos-10.jpg'  whidth= '400%'> </td>")
+                break;
+                case '2':
+                document.write("NUMERO ERRADO")
+                document.write("<br> <img src='images/Monstro 2.jpg' alt= whidth= 400>")
+                break;
+                case '3':
+                document.write("NUMERO CORRETO")
+                document.write("<br><img src='images/anjo2.jfif' alt= whidth= 400>")
+                break;
+                case '4':
+                document.write("NUMERO CORRETO ")
+                document.write("<br> <img src='images/anjo 1.jpg' alt= whidth= 400>")
+                break;
+
+        }
+
+
+
+
+</script>
+
+<body>
+     
+</body>
+
+</html>
