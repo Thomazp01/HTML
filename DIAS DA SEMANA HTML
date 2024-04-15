@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+</head>
+<script>
+
+        $diadasemana = prompt("Digite o dia da semana: ")
+        switch($diadasemana) 
+        {
+                case 'Sabado':
+                case 'sabado':
+                case 'Domingo':
+                case 'domingo':
+                        document.write("Fim de semana")
+                        break;
+
+                case 'Segunda':
+                case 'segunda':
+                case 'Terça':
+                case 'terça':
+                case 'quarta':
+                case 'Quarta':
+                case 'Quinta':
+                case 'quinta':
+                case 'Sexta':
+                case 'sexta':
+                        document.write("Dia letivo / Dia Util")
+                        break;
+                default:
+                        document.write("Opção invalida!")
+                        break;
+
+        }
+
+
+
+
+</script>
+
+<body>
+
+</body>
+
+</html>
