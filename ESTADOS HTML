@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <form name="form1" method="post" action="pag2.php">
+        Nome : <input type="text" name="fNome"> <br>
+        Idade :<input type="text" name="fIdade"> <br>
+        Cidade :<input type="text" name="fCidade" size="50" maxlength="50"> <br>
+        sexo:
+        <select name="fSexo">
+            <option value="emBranco">Escolha uma opção abaixo: </option>
+            <option value="masculino"> Masculino</option>
+            <option value="fem">Feminino</option>         
+        </select> <br> <br>
+
+        Estado:
+        <select name="fEstado">
+            <option value="emBranco">Escolha uma opção abaixo: </option>
+            <option>Acre </option>
+            <option>Alagoas </option>
+            <option>Amapá </option>
+            <option>Amazonas </option>
+            <option>Bahia </option>
+            <option>Ceará </option>
+            <option>Distrito Federal </option>
+            <option>Espírito Santo </option>
+            <option>Goiás </option>
+            <option>Maranhão </option>
+            <option>Mato Grosso </option>
+            <option>Mato Grosso do Sul </option>
+            <option>Minas Gerais </option>
+            <option>Pará </option>
+            <option>Paraíba </option>
+            <option>Paraná </option>
+            <option>Pernambuco </option>
+            <option>Piauí </option>
+            <option>Rio de Janeiro </option>
+            <option>Rio Grande do Norte </option>
+            <option>Rio Grande do Sul </option>
+            <option>Rondônia </option>
+            <option>Roraima </option>
+            <option>Santa Catarina </option>
+            <option>São Paulo </option>
+            <option>Sergipe </option>
+            <option>Tocantins </option>
+            </select> <br> <br>
+
+            
+            <input type="submit" value="Gravar">
+            <input type="submit" value="Limpar">
+         </form>
+     
+     </body>
+     </html>
+     
