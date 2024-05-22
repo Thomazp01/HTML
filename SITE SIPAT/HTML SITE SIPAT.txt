@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIPAT 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9; 
+            color: #2e7d32; 
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #388e3c; 
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #66bb6a; 
+            overflow: hidden;
+            text-align: center;
+        }
+        nav a {
+            display: inline-block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: #2e7d32; 
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        footer {
+            background-color: #388e3c;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SIPAT 2024</h1>
+        <p>Semana Interna de Prevenção de Acidentes de Trabalho</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#informação">Sobre Nós</a>
+        <a href="#cipa">CIPA</a>
+        <a href="#readaptação">Readaptação Funcional</a>
+        <a href="#segurança">Segurança </a>
+        <a href="#contato">Contato</a>
+        <a href="#autores">Autores</a>
+    </nav>
+
+    <main>
+        <section id="home">
+            <h2>Bem-vindos à SIPAT 2024</h2>
+            <center><img src="imagenss/LOGO_SIPAT_05.png" width="15%"></center>
+            <p>A SIPAT 2024 está repleta de atividades, palestras e workshops focados na prevenção de acidentes e na promoção da saúde no ambiente de trabalho.</p>
+           
+        </section>
+        <section id="informação">
+            <h2>Sobre nós do SIPAT</h2>
+            <ul>
+                <li>SIPAT ou Semana Interna de Prevenção de Acidentes de Trabalho é um evento que contribui ativamente para a redução de acidentes de trabalho nas empresas. Essa é uma atribuição obrigatória da Comissão Interna de Prevenção de Acidentes (CIPA), prevista em lei, de acordo com a NR-5 e a Portaria nº 3.214.</li>
+                <li>A importância da SIPAT é evidente: quem trabalha em uma empresa cuidando da saúde dos trabalhadores ou com a gestão de pessoas sabe bem como são grandes as chances de desenvolvimento de doenças ocupacionais e acidentes de trabalho.</li>
+                <li>Apesar de a sigla significar Semana Interna de Prevenção de Acidentes do Trabalho, devido às diversas especificidades dos serviços na PMSP e considerando que o objetivo do evento é atingir o maior número de servidores, a SIPAT poderá ser desenvolvida em outros formatos durante o ano.</li>
+                <li>O principal objetivo é promover conhecimento e reflexão, despertando o olhar crítico, do maior número de servidores possível, sobre a importância da prevenção de acidentes, combate ao adoecimento, segurança e qualidade de vida no local de trabalho e fora dele. Também levá-los a conhecer o papel e ações da comissão, desenvolvendo o entendimento e cooperação necessários para levar adiante e com bons resultados o trabalho da CIPA.</li>
+                <li>O evento deve ser organizado com antecedência, de forma a se conseguir confirmar local, datas durante o ano, palestrantes e atividades, com tranquilidade.</li>
+            </ul>
+        </section>
+        <section id="cipa">
+            <h2>CIPA</h2>
+            <ul>
+                <center><img src="imagenss/logo_cipa.png" width="15%"></center>
+
+
+
+
+            </ul>
+
+        </section>
+        <section id="readaptação">
+            <h2>Readaptação Funcional</h2>
+            <ul>
+                <li>A Coordenadoria de Gestão de Saúde do Servidor tem revistos os seus processos de trabalho relacionados à saúde dos servidores da PMSP no sentido de instituir uma política de saúde do servidor voltada à promoção da saúde e prevenção de doenças.
+
+                    Dentre as áreas de atenção está a reinserção e acompanhamento dos servidores readaptados, simplificando processos e inovando procedimentos.
+                    
+                    A mudança das diretrizes e procedimentos relacionados à Readaptação Funcional, desde a submissão do pedido até sua conclusão, hoje passam por uma atualização, que tem como agente central a retomada do Centro de Orientação e Apoio Profissional (COAP), imbuído de participar junto aos servidores, gestores e interlocutores na promoção de saúde e na condução de atividades voltadas a dar suporte aos agentes partícipes da Readaptação Funcional. <br> <br>
+                    1. Readaptação Funcional – o que é?<br>
+
+                   O instrumento da Readaptação Funcional, previsto no artigo 39 da Lei nº 8.989, de 1979, é a atribuição de encargos mais compatíveis com a capacidade física ou psíquica do servidor e dependerá sempre de perícia médica.
+                   <br><br>
+                   1.1 Quem tem direito?<br>
+
+                   Poderão ser readaptados os servidores municipais efetivos que, a critério médico, apresentarem comprometimento parcial e permanente ou parcial e temporário de sua saúde.
+
+                   A Readaptação Funcional pode ser solicitada pelo próprio servidor através de sua unidade de trabalho/Recursos Humanos ou pode ser concedida por encaminhamento interno na COGESS, a critério médico pericial.
+
+                   O servidor readaptado mantém seus direitos de participação em cursos de capacitação, bem como de assumir cargos de chefia, desde que respeitadas as orientações ou normas para esta indicação e o laudo de Readaptação Funcional.
+
+                   O processo de Readaptação Funcional encontra amparo legal, resultando em adequação das funções às atividades compatíveis com o seu estado atual de saúde.
+
+                   O sucesso da readaptação exige colaboração, participação e empatia. Ele envolve a participação do próprio readaptado, do gestor direto e do interlocutor, todos em busca de soluções e de boas práticas.
+                    </li>
+            </ul>
+        </section>
+
+        <section id="segurança">
+            <h2>Segurança no Trabalho
+            </h2>
+            <p>Saúde e segurança do trabalho em topicos da gente.</p>
+            <ul>
+                <li>Evitando acidentes e doenças do trabalho</li>
+                <li>Plano de evacuação e uso de equipamento contra incêndio</li>
+                <li>Primeiros Socorros: conhecimento e agilidade para fazer a diferença</li>
+                <li>Equipamento de Proteção Individual (EPI)</li> 
+                <li>Equipamento de Proteção Coletiva (EPC)</li> 
+                <li>Ergonomia</li> 
+                
+            </ul>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Para mais informações, entre em contato conosco:</p>
+            <p>Email: <a href="Email:">sipat1234@empresa.com</a></p>
+            <p>Telefone: (19) 993134210</p>
+            <p>Endereço: Rua Senai, 321 - São Paulo, SP</p> <br> <br> 
+           
+        </section>
+        <section id="autores">
+                <h2>Nomes</h2>
+                <p>Thomaz Silva Lima</p>
+                <p>Nicolas Maximino</p>
+                <p>Pegamos alguns modelos iniciais para conseguirmos colocar as cores e o header inicial em pesquisas, mas tirando isso as informaçoes nos pegamos no site inicial as informaçoes, imagens, todo o resto nos fizemos, esperamos que esteja um bom trabalho,obrigado!</p>
+                 <br> <br> <br> <br>
+
+
+        </section>
+        
+    </main>
+    <footer>
+        <p> &copy; 2024 SIPAT. Todos os direitos reservados.</p>
+    </footer>
+
+    
+        
+   
+</body>
+</html>
+
